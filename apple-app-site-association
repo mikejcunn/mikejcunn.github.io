@@ -1,0 +1,9 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": ["runpayments.Go-SDK-Intro"],
+           }
+       ]
+   },
+}
