@@ -1,9 +1,9 @@
 {
-  "applinks": {
-      "details": [
-           {
-             "appIDs": ["runpayments.Go-SDK-Intro"],
-           }
-       ]
-   },
-}
+    "applinks": {
+        "apps": [],
+        details": [
+        {
+            "appID": "runpayments.Go-SDK-Intro",
+            "paths": ["/OAuthResponse/*"]
+        }] 
+    } 
