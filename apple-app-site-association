@@ -1,9 +1,9 @@
 {
     "applinks": {
         "apps": [],
-        details": [
-        {
-            "appID": "runpayments.clovergo",
+        "details": [{
+            "appID": "runpayments.Go-SDK-Intro",
             "paths": ["/OAuthResponse/*"]
         }] 
     } 
+}
